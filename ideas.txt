@@ -1,0 +1,16 @@
+1. Twitter clone/ social media platform
+    -social media platform
+
+2. Gym macro app
+    - app that lets users track macros 
+
+3. time/music app
+    -plays music depending on what time it is
+
+4. emailing service
+    -app that lets users create an "email address" and communicate with one another
+
+5. uber eats type app
+    -app that lets you order anything close to you
+
+
